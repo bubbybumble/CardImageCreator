@@ -1,0 +1,7 @@
+<svg width="240" height="336" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <circle cx="0" cy="0" r="40" style="stroke:black;stroke-width:0;fill:black;stroke-opacity:0;fill-opacity:1;" />
+  <circle cx="0" cy="0" r="45" style="stroke:black;stroke-width:3;fill:white;stroke-opacity:1;fill-opacity:0;" />
+  <circle cx="240" cy="336" r="40" style="stroke:black;stroke-width:0;fill:black;stroke-opacity:0;fill-opacity:1;" />
+  <circle cx="240" cy="336" r="45" style="stroke:black;stroke-width:3;fill:white;stroke-opacity:1;fill-opacity:0;" />
+  <text x="220" y="20" style="stroke:none;fill:black;text-anchor:end;font-weight:normal;font-style:normal;font-size:.6em;font-stretch:normal;font-family:Arcade Normal;font-variant:normal;">PURPLE DEATH MAN</text>
+</svg>
